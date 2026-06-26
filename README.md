@@ -1,2 +1,3 @@
-# s2m2_2026
-Exercises for S2M2 workshop (2026)
+# S2M2 2026
+
+Exercises for the S2M2 workshop (2026).
