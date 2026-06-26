@@ -1,10 +1,8 @@
 name: s2m2
-
 channels:
   - conda-forge
   - bioconda
   - defaults
-
 dependencies:
   - python=3.12
   - jupyter
@@ -12,3 +10,4 @@ dependencies:
   - pip
   - pip:
     - fluxbound
+    - steadiercom
