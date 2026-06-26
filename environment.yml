@@ -1,0 +1,8 @@
+name: s2m2
+
+dependencies:
+  - jupyter
+  - carveme
+  - pip
+  - pip:
+    - fluxbound
