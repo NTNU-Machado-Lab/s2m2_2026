@@ -3,4 +3,4 @@
 
 # S2M2 2026
 
-Exercises for the [S2M2 summer school 2026](https://s2m2.bio.di.uminho.pt/)/
+Exercises for the [S2M2 summer school 2026](https://s2m2.bio.di.uminho.pt/).
