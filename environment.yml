@@ -5,9 +5,13 @@ channels:
   - defaults
 dependencies:
   - python=3.12
+  - pysciopt
   - jupyter
   - carveme
+  - pandas
+  - matplotlib
   - pip
   - pip:
     - fluxbound
     - steadiercom
+    - pyvis
