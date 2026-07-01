@@ -2,3 +2,4 @@
 .ipynb_checkpoints/*
 *.DS_Store
 files1/ecoli.tsv
+tmp.html
